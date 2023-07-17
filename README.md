@@ -1,5 +1,9 @@
 # DS-Fusion
 
+![alt text](imgs/s2.png)
+
+## PIPELINE 
+
 ![alt text](imgs/pipeline.png "Pipeline")
 
 ## Setting up basic environment
@@ -56,8 +60,7 @@ python txt2img.py --use_generic "True" --ddim_eta 1.0 --n_samples 6 --n_iter 1 -
 ## Examples of Results
 
 ![alt text](imgs/ds-fusion.png)
-![alt text](imgs/s1.png)
-![alt text](imgs/s2.png)
+
 
 ## Acknowledgement
 The implementation is based on Stable Diffusion/Latent Diffusion [Git-Source](https://github.com/CompVis/stable-diffusion). The discriminator structure is referenced from DC-GAN.
