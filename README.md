@@ -37,7 +37,7 @@ python txt2img.py --ddim_eta 1.0 --n_samples 6 --n_iter 1 --ddim_steps 50 --scal
 ### Custom Font 
 - You may use --custom_font and give a name of a font available on your system. In this case you may use any alpha numeric character, provided your system can generate it. 
 - You may need to adjust parameters of rasterizing in ldm/data/rasterizer.py because depending on the font, it may not turn out as expected. Look at img_base.png to see what the font looks like rasterized.
-- If using --custom_font, add full name including extension. e.g. " --custom_font 'TlwgTypist-Bold.ttf' " You dont need to give a font
+- If using --custom_font, add full name including extension. e.g. " --custom_font 'TlwgTypist-Bold.ttf' " 
 
 ```
 python script_basic.py -s "DRAGON" -t "R" --custom_font "TlwgTypist-Bold.ttf" --white_bg "True" --cartoon "True"  --ckpt_path "ckpt/model.ckpt"
