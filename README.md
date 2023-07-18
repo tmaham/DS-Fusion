@@ -13,7 +13,7 @@ Use environment.yaml from the official Stable Diffusion project, to set up the e
 conda env create -f environment.yml
 ```
 
-You will also need to download the checkpoint named "model.ckpt" from [Source](https://github.com/CompVis/latent-diffusion). To reduce confusion, we provide an alternative link for the checkpoint file we used from latent-diffusion official source here [Link](https://drive.google.com/file/d/1FuwXUk8Ht-UZ2J-vCAg9MOJRPqd8iY-F/view?usp=sharing)
+You will also need to download the checkpoint named "model.ckpt" from [Source](https://github.com/CompVis/latent-diffusion). For ease, we provide an alternative link [Link](https://drive.google.com/file/d/1FuwXUk8Ht-UZ2J-vCAg9MOJRPqd8iY-F/view?usp=sharing) for the checkpoint file we used in our project from the latent-diffusion official source.
 
 
 ## Basic generation
