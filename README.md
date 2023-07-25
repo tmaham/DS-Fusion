@@ -10,7 +10,7 @@
 Use environment.yaml from the official Stable Diffusion project, to set up the environment. 
 
 ```
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 You will also need to download the checkpoint named "model.ckpt" from [Source](https://github.com/CompVis/latent-diffusion). For ease, we provide an alternative link [Link](https://drive.google.com/file/d/1FuwXUk8Ht-UZ2J-vCAg9MOJRPqd8iY-F/view?usp=sharing) for the checkpoint file we used in our project from the latent-diffusion official source.
