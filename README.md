@@ -1,4 +1,5 @@
 Implementation of the paper [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604)
+
 Link for project page [DS-Fusion](https://ds-fusion.github.io/)
 
 
